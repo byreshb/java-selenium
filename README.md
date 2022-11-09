@@ -24,4 +24,4 @@ Selenium Tests in Java
 * Add items to shopping cart
 * Review shopping cart items
 * Enter customer information before checkout
-* Verify that total amount of shopping
+* Verify the total amount of shopping
