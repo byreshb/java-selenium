@@ -16,7 +16,7 @@ Selenium Tests in Java
 * Test data is read from a CSV file
 * Page Object Factory design pattern is used to develop tests
 * Environment variables are used for passing sensitive data
-* Designed code keeping separate of concerns design principle in mind
+* Developed code keeping separation of concerns design principle in mind
 
 ### Test scenario
 
