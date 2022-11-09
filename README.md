@@ -3,7 +3,7 @@ Selenium Tests in Java
 
 ### Requirements to run tests:
 
-* JDK Version >= 8 (JDK)
+* Java Version >= 8 (JDK)
 * Chrome / firefox browser should be installed
 * mvn is optional as maven wrapper is installed
 * To run tests in chrome
